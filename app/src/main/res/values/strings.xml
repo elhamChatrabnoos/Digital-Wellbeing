@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Digital Wellbeing</string>
+    <string name="screen_on_amount">3h 45min</string>
+    <string name="screen_on_text">used your phone</string>
+    <string name="app_name_txt">app name</string>
+    <string name="activate_hour_txt">1h 20min</string>
+</resources>

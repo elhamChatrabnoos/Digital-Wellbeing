@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530132729911",
+    "project_id": "digital-wellbeing-a72e2",
+    "storage_bucket": "digital-wellbeing-a72e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530132729911:android:8344e036cfb896f11dbfb2",
+        "android_client_info": {
+          "package_name": "com.example.prj.digital_wellbeing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530132729911-bj0hpkvrj375j3o4hor2iakru3r8lu4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD56SLqE_a5zzyyboPe6nKF7d3MpfGcuaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530132729911-bj0hpkvrj375j3o4hor2iakru3r8lu4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
